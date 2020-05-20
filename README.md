@@ -7,4 +7,4 @@ Metric.am provided dataset describing 472 startups and their founders as well as
 Steps of the solutions:
 * Clean and preprocess data.
 * Perform exploratory data analysis, make some conclusions.
-* Perform `RandomForestClassifier` on the dataset to interpret feature importances of the algorithm.
+* Perform `RandomForestClassifier` on the dataset to interpret feature importances that the algorithm provided.
